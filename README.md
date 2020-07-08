@@ -1,3 +1,7 @@
+# Guardian API News Website
+
+Basic news website utilising the Guardian API, built with Angular.
+
 # Assessment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
